@@ -1,1 +1,2 @@
 1. glasba.txt(unknown), porocilo.txt(unknown), tmp.txt(unknown)
+2. glasba.txt(modified), porocilo.txt(modified), tmp.txt(modified)
